@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Millasdur/discord-bot.git"
+  },
+  "author": "Hugo Lely <lely.hugo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Millasdur/discord-bot/issues"
+  },
+  "homepage": "https://github.com/Millasdur/discord-bot#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "recastai": "^4.0.0",
+    "winston": "2.*"
+  }
+}
